@@ -221,4 +221,5 @@ tbl_regression(abalone_model,
   as_flex_table()
 ```
 
+**https://maceyhartmann.github.io/workshop-07_winter-2026/code/abalone-example.html**
 **END OF ABALONE EXAMPLE**
